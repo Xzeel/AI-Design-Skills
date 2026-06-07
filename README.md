@@ -1,4 +1,4 @@
-# AI-Design-Skills
+# AI Design Skills
 
 ```
    ___  __________________  __  ______ ________   __   ____
